@@ -1,5 +1,4 @@
-Lunch Tray
-==========
+# Lunch Tray
 
 This is the independent project for [Unit 3] of [Android Basics in Kotlin] course from Google, see the [Lunch Tray Codelab].
 
@@ -11,10 +10,10 @@ This is the independent project for [Unit 3] of [Android Basics in Kotlin] cours
 
 Environment
 
-- Kotlin 1.6.0
-- Android Studio Arctic Fox 2020.3.1
-- Gradle Plugin 7.0.3
+- Kotlin 1.6.10
+- Android Studio Bumblebee 2021.1.1
+- Gradle Plugin 7.1.2
 
 ----
 
-updated: 2021-11-19
+updated: 2022-03-08
