@@ -10,10 +10,10 @@ This is the independent project for [Unit 3] of [Android Basics in Kotlin] cours
 
 Environment
 
-- Kotlin 1.6.10
-- Android Studio Bumblebee 2021.1.1
-- Gradle Plugin 7.1.2
+- Kotlin 1.7.10
+- Android Studio Chipmunk 2021.2.1
+- Gradle Plugin 7.2.2
 
 ----
 
-updated: 2022-03-08
+updated: 2022-08-20
