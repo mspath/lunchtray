@@ -53,8 +53,6 @@ class EntreeMenuFragment : Fragment() {
         binding.apply {
             lifecycleOwner = viewLifecycleOwner
             viewModel = sharedViewModel
-            // TODO: initialize the EntreeMenuFragment variables
-            // WHY?
 
             binding.nextButton.setOnClickListener {
                 goToNextScreen()
