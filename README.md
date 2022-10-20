@@ -11,9 +11,9 @@ This is the independent project for [Unit 3] of [Android Basics in Kotlin] cours
 Environment
 
 - Kotlin 1.7.10
-- Android Studio Chipmunk 2021.2.1
-- Gradle Plugin 7.2.2
+- Android Studio Chipmunk 2021.3.1
+- Gradle Plugin 7.3.1
 
 ----
 
-updated: 2022-08-20
+updated: 2022-10-20
