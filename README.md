@@ -6,14 +6,19 @@ This is the independent project for [Unit 3] of [Android Basics in Kotlin] cours
 [Unit 3]: https://developer.android.com/courses/android-basics-kotlin/unit-3
 [Lunch Tray Codelab]: https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade
 
-----
+---
 
 Environment
 
-- Kotlin 1.7.10
+- Kotlin 1.7.20
 - Android Studio Chipmunk 2021.3.1
 - Gradle Plugin 7.3.1
 
-----
+---
 
-updated: 2022-10-20
+```
+language: kotlin
+repo: lunchtray
+status: archived
+updated: 2022-12-03
+```
