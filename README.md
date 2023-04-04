@@ -10,9 +10,9 @@ This is the independent project for [Unit 3] of [Android Basics in Kotlin] cours
 
 Environment
 
-- Kotlin 1.7.20
-- Android Studio Chipmunk 2021.3.1
-- Gradle Plugin 7.3.1
+- Kotlin 1.8.0
+- Android Studio Electric Eel 2022.1.1
+- Gradle Plugin 7.4.2
 
 ---
 
@@ -20,5 +20,5 @@ Environment
 language: kotlin
 repo: lunchtray
 status: archived
-updated: 2022-12-03
+updated: 2022-04-04
 ```
